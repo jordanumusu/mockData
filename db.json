@@ -1,9 +1,5 @@
 {
-  "new": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+
   "messages": [
     {
       "body": "What's up fam how you doin?",
@@ -20,6 +16,27 @@
       "date": 1556590133415,
       "inbound": false
     }
+  ],
+  "new_conversation": [
+    {
+      "name": "Jordan Umusu",
+      "phone": "1234567890",
+      "recentMsg": "Have you checked out Attack on Titan? Season 4 starts December 7th!"
+    },
+    {
+      "name": "Edward Aguilar",
+      "phone": "2341233490",
+      "recentMsg": "Have you checked out Frank's new album, that shit is crazy! Kanye and JayZ are on a track too!"
+    },
+    {
+      "name": "Sahan Reddy ",
+      "phone": "2341233490",
+      "recentMsg": "I drive a lemon car around hoping for death to come. I take turns at 70 mph and like my brakes going melty melty."
+    },
+    {
+      "name": "Michael Giusto",
+      "phone": "7703451789",
+      "recentMsg": "Dude Florida was awesome! You should go sometime! The crowds though were god awful, but worthwhile compromise."
+    }
   ]
-  
 }
