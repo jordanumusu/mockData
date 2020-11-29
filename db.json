@@ -1,21 +1,87 @@
 {
-
-  "messages": [
+  "conversations": [
     {
-      "body": "What's up fam how you doin?",
-      "date": 1506582433415,
-      "inbound": true
+      "1234567890": [
+        {
+          "body": "What's up fam how you doin?",
+          "date": 1506582433415,
+          "inbound": true
+        },
+        {
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+          "date": 1606590133415,
+          "inbound": true
+        },
+        {
+          "body": "Pretty alright man, just chillin",
+          "date": 1556590133415,
+          "inbound": false
+        }
+      ]
     },
     {
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
-      "date": 1606590133415,
-      "inbound": true
-    },
-    {
-      "body": "Pretty alright man, just chillin",
-      "date": 1556590133415,
-      "inbound": false
-    }
+        "2341233490": [
+          {
+            "body": "This software is crazy dude! You built this in a week?",
+            "date": 1506582433415,
+            "inbound": true
+          },
+          {
+            "body": "Yup what can I say, just a straight god I think.",
+            "date": 1556590133415,
+            "inbound": false
+          },
+          {
+            "body": "Meeting Saturday right? And Andy's afterwards? YEEYEYYEYEYE ",
+            "date": 1606590133415,
+            "inbound": true
+          }
+          
+        ]
+      },
+      {
+        "2341233490": [
+          {
+            "body": "What's up fam how you doin?",
+            "date": 1506582433415,
+            "inbound": true
+          },
+          {
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+            "date": 1606590133415,
+            "inbound": true
+          },
+          {
+            "body": "Pretty alright man, just chillin",
+            "date": 1556590133415,
+            "inbound": false
+          }
+        ]
+      },
+      {
+        "7703451789": [
+          {
+            "body": "I picked up La Resistance btw. Super hot with Spain and stuff.",
+            "date": 1506582433415,
+            "inbound": false
+          },
+          {
+            "body": "Really? Down for a game to test it out?",
+            "date": 1606590133415,
+            "inbound": true
+          },
+          {
+            "body": "Ofc, just give me 15 minutes rq.",
+            "date": 1604590133415,
+            "inbound": false
+          },
+          {
+            "body": "Bruh what are you doing? You said you'd only be gone for like 15 minutes. It's been 15 HOURS!",
+            "date": 1556590133415,
+            "inbound": true
+          }
+        ]
+      }
   ],
   "new_conversation": [
     {
